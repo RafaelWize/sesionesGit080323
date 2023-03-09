@@ -4,3 +4,4 @@ conflicto :)
 cambio remoto con conflicto
 deidh
 git pull
+ss
