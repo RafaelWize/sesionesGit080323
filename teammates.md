@@ -6,3 +6,4 @@ deidh
 git pull
 ss
 pr change
+pr 3
