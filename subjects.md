@@ -1,2 +1,2 @@
-matematicas
+matemáticas
 espanol
