@@ -6,3 +6,4 @@ impersonando a Gina
 commit sin firmar
 commit firmado
 commit firmado automaticamente
+commit sin firmar (después de borrar gpgsign true)
